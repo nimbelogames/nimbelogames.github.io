@@ -154,3 +154,10 @@ section{padding:44px 0}
 .legal .note{border-left:3px solid currentColor;padding-left:12px}
 .langs{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:.95em}
 .langs a[aria-current]{font-weight:700;text-decoration:none}
+
+/* ---- screenshots not ready yet: hide the empty frames (real screenshots only) ----
+   Remove the "pending" class from a .shot when its real image goes in. */
+.shot.pending{display:none}
+.game-hero:has(.shot.pending){grid-template-columns:1fr;padding-bottom:20px}
+.points:has(.shot.pending){grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.point:has(.shot.pending){display:block;background:var(--surface);border:1.5px solid var(--line);border-radius:var(--radius);padding:22px}
