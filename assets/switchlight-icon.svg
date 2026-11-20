@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" role="img" aria-label="Switchlight app icon">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A1E4F"/><stop offset="1" stop-color="#8A3F5E"/></linearGradient>
+<radialGradient id="h" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFC94D" stop-opacity=".35"/><stop offset="1" stop-color="#FFC94D" stop-opacity="0"/></radialGradient>
+<linearGradient id="l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFE08A"/><stop offset="1" stop-color="#F5B336"/></linearGradient>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<rect width="108" height="108" fill="url(#b)"/><circle cx="54" cy="54" r="40" fill="url(#h)"/>
+<rect x="23.0" y="24.0" width="62.0" height="64.0" rx="11" fill="#00000055"/>
+<rect x="28.0" y="30.0" width="15" height="15" rx="4" fill="#00000066"/><rect x="28.0" y="28.0" width="15" height="15" rx="4" fill="#40306A" stroke="#9A73B0" stroke-opacity=".7" stroke-width=".8"/>
+<rect x="46.5" y="30.5" width="15" height="15" rx="4" fill="#C98F12"/><rect x="46.5" y="28.0" width="15" height="15" rx="4" fill="#FFC94D" filter="url(#g)" opacity=".8"/><rect x="46.5" y="28.0" width="15" height="15" rx="4" fill="url(#l)"/><rect x="49.0" y="29.6" width="10" height="1.6" rx=".8" fill="#FFF1C2" opacity=".9"/>
+<rect x="65.0" y="30.0" width="15" height="15" rx="4" fill="#00000066"/><rect x="65.0" y="28.0" width="15" height="15" rx="4" fill="#40306A" stroke="#9A73B0" stroke-opacity=".7" stroke-width=".8"/>
+<rect x="28.0" y="49.0" width="15" height="15" rx="4" fill="#C98F12"/><rect x="28.0" y="46.5" width="15" height="15" rx="4" fill="#FFC94D" filter="url(#g)" opacity=".8"/><rect x="28.0" y="46.5" width="15" height="15" rx="4" fill="url(#l)"/><rect x="30.5" y="48.1" width="10" height="1.6" rx=".8" fill="#FFF1C2" opacity=".9"/>
+<rect x="46.5" y="49.0" width="15" height="15" rx="4" fill="#C98F12"/><rect x="46.5" y="46.5" width="15" height="15" rx="4" fill="#FFC94D" filter="url(#g)" opacity=".8"/><rect x="46.5" y="46.5" width="15" height="15" rx="4" fill="url(#l)"/><rect x="49.0" y="48.1" width="10" height="1.6" rx=".8" fill="#FFF1C2" opacity=".9"/>
+<rect x="65.0" y="49.0" width="15" height="15" rx="4" fill="#C98F12"/><rect x="65.0" y="46.5" width="15" height="15" rx="4" fill="#FFC94D" filter="url(#g)" opacity=".8"/><rect x="65.0" y="46.5" width="15" height="15" rx="4" fill="url(#l)"/><rect x="67.5" y="48.1" width="10" height="1.6" rx=".8" fill="#FFF1C2" opacity=".9"/>
+<rect x="28.0" y="67.0" width="15" height="15" rx="4" fill="#00000066"/><rect x="28.0" y="65.0" width="15" height="15" rx="4" fill="#40306A" stroke="#9A73B0" stroke-opacity=".7" stroke-width=".8"/>
+<rect x="46.5" y="67.5" width="15" height="15" rx="4" fill="#C98F12"/><rect x="46.5" y="65.0" width="15" height="15" rx="4" fill="#FFC94D" filter="url(#g)" opacity=".8"/><rect x="46.5" y="65.0" width="15" height="15" rx="4" fill="url(#l)"/><rect x="49.0" y="66.6" width="10" height="1.6" rx=".8" fill="#FFF1C2" opacity=".9"/>
+<rect x="65.0" y="67.0" width="15" height="15" rx="4" fill="#00000066"/><rect x="65.0" y="65.0" width="15" height="15" rx="4" fill="#40306A" stroke="#9A73B0" stroke-opacity=".7" stroke-width=".8"/>
+</svg>
