@@ -143,10 +143,12 @@ section{padding:44px 0}
   section{padding:34px 0}
 }
 
-/* Legal pages (/privacy, /terms), added by the site build. */
+/* ---- legal pages (/privacy, /terms; added by the developer in the first build, kept here so rebuilds keep it) ---- */
 .legal{max-width:780px;padding-top:24px;padding-bottom:48px}
 .legal h1{margin-top:8px}
-.legal h2{margin-top:32px;scroll-margin-top:16px}
+.legal h2{margin-top:32px;font-size:clamp(20px,2.6vw,23px);scroll-margin-top:16px}
+.legal p,.legal li{color:var(--text2)}
+.legal strong{color:var(--text)}
 .legal li{margin:6px 0}
 .legal code{font-size:.92em}
 .legal .note{border-left:3px solid currentColor;padding-left:12px}
