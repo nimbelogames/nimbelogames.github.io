@@ -15,6 +15,8 @@
 /* ---- themes ---- */
 .studio{      --top:#15122A; --bottom:#211B3D; --surface:#2A2350; --raised:#3A3166; --text2:#D6D0E6; --muted:#B4ACCB; --accent:#C7B6FF; --onAccent:#15122A; --accentEdge:#8E7BD6; --line:#FFFFFF1F; }
 .switchlight{ --top:#2A1E4F; --bottom:#8A3F5E; --surface:#34265E; --raised:#46356F; --text2:#E3D3E6; --muted:#BBA8CC; --accent:#FFC94D; --onAccent:#1A1300; --accentEdge:#C98F12; --line:#FFFFFF1F; }
+.lumidart{    --top:#0B1230; --bottom:#1A2352; --surface:#172049; --raised:#24306A; --text2:#D3D9F2; --muted:#A9B3D9; --accent:#C8F560; --onAccent:#172300; --accentEdge:#6E9A1F; --line:#FFFFFF1F; }
+.ridelight{   --top:#0E1D1A; --bottom:#1C372F; --surface:#17312A; --raised:#25463C; --text2:#D4E2D9; --muted:#A6BDB1; --accent:#F2E3BE; --onAccent:#0E1D1A; --accentEdge:#A8946A; --line:#FFFFFF1F; }
 .peekwise{    --top:#0E2F3B; --bottom:#144652; --surface:#15404C; --raised:#1F5566; --text2:#CFE3DF; --muted:#A9CBC6; --accent:#FF8A5C; --onAccent:#2B0F02; --accentEdge:#C2522A; --mint:#5CF2B5; --line:#FFFFFF1F; }
 
 *{box-sizing:border-box}
@@ -172,3 +174,9 @@ section{padding:44px 0}
 .ways-soon{margin-top:22px}
 @media (max-width:430px){.hero-actions .btn{flex:1 1 auto;justify-content:center}}
 .btn.switchlight,.btn.peekwise{background:var(--accent);min-height:48px}
+
+/* In the works (games not released yet: no store link, no page) */
+.next-h{margin:34px 0 14px}
+.game-card .game-name{margin:0;font-size:22px;line-height:1.2;color:var(--text)}
+.game-card .tag{font-size:15px;color:var(--muted)}
+.game-card .banner{width:100%;height:auto;aspect-ratio:1024/500;border-radius:16px;object-fit:cover}
