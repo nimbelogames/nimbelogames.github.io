@@ -180,3 +180,18 @@ section{padding:44px 0}
 .game-card .game-name{margin:0;font-size:22px;line-height:1.2;color:var(--text)}
 .game-card .tag{font-size:15px;color:var(--muted)}
 .game-card .banner{width:100%;height:auto;aspect-ratio:1024/500;border-radius:16px;object-fit:cover}
+
+/* Join the test (marketing/website/join-the-test.md). One .test-card per game; theme class sets the colours. */
+.test-intro{padding-top:28px;padding-bottom:8px}
+.lang-switch{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:15px;margin-bottom:18px}
+.lang-switch a{color:var(--text2);text-decoration:none;padding:6px 2px}
+.lang-switch a[aria-current=page]{color:var(--text);text-decoration:underline}
+.facts{margin:18px 0 0;padding-left:22px;color:var(--text2);max-width:40em}
+.facts li{margin:4px 0}
+.test-card h2.game-name{margin:0;font-size:26px}
+.steps{margin:0;padding-left:22px;color:var(--text2);display:grid;gap:16px}
+.steps strong{color:var(--text)}
+.steps .btn{margin-top:10px}
+.test-note{margin-top:22px;color:var(--muted);font-size:15px;max-width:44em}
+.panel h3{margin-top:18px}
+.test-line{margin:12px 0 0;color:var(--text2)}
